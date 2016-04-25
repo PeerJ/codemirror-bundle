@@ -1,0 +1,22 @@
+{
+  "name": "peerj/codemirror-bundle",
+  "description": "A Symfony bundle providing CodeMirror CSS and JS files",
+  "keywords": [
+    "symfony",
+    "composer"
+  ],
+  "type": "library",
+  "license": "",
+  "authors": [
+    {
+      "name": "Alf Eaton",
+      "email": "alf@peerj.com"
+    }
+  ],
+  "homepage": "https://github.com/PeerJ/codemirror-bundle",
+  "autoload": {
+    "psr-4": {
+        "peerj\\CodeMirrorBundle\\": ""
+    }
+  }
+}
